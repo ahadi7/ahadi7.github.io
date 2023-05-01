@@ -1,5 +1,1 @@
-# ay whaddup baby g9rilla
-## my name is ahaddy
-### am bow tu kum
-
-theme: The-Midnight-Theme
+# ay whaddup baby
