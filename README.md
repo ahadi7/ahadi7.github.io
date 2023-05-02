@@ -4,5 +4,6 @@
 #### test line 4
 ##### test line 5
 ###### test line 6
-_bold test_
+_italic test_
 default test
+**bold test**
